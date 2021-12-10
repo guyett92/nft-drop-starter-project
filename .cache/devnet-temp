@@ -1,0 +1,28 @@
+{
+  "program": {
+    "uuid": "2EYy7J",
+    "config": "2EYy7J5fp9WmGG2darccAhBv3GdzD6LNdct9JxbobYja"
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/jpnLwC6KLggRrnzNBlDwkERdSFKut4sBsX_AgncRju8",
+      "name": "King Lemmy",
+      "onChain": true
+    },
+    "1": {
+      "link": "https://arweave.net/v8OLx33h3E3Qo0o_U6lsWbROy8Y-8hJm0_ZP6za0k3A",
+      "name": "Lemmiwinks",
+      "onChain": true
+    },
+    "2": {
+      "link": "https://arweave.net/lGS8GtT68AvvPpe-c0YpDA1ZhcMpbBDpDsM1li-NKx0",
+      "name": "Lemart",
+      "onChain": true
+    }
+  },
+  "env": "devnet",
+  "cacheName": "temp",
+  "authority": "JDotAwr6MgevMyfknGT3meCRdpLgHUiiNj2buZwixW1v",
+  "candyMachineAddress": "AaEkaA2ffJamasCvaautzQJ4mxsA59vBX2DNDv52WBkH",
+  "startDate": 1638317520
+}

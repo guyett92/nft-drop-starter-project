@@ -1,0 +1,24 @@
+{
+  "name": "Lemmiwinks",
+  "symbol": "",
+  "description": "A lemming...",
+  "image": "1.png",
+  "collection": {
+    "name": "Lemmings Pre-Season",
+    "family": "Lemmings of Solana"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "JDotAwr6MgevMyfknGT3meCRdpLgHUiiNj2buZwixW1v",
+        "share": 100
+      }
+    ]
+  }
+}
