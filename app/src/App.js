@@ -64,7 +64,7 @@ const App = () => {
       <div className="container">
         <div className="header-container">
           <p className="header">🐭 Lemmings Drop 🐭</p>
-          <p className="sub-text">Get a lemming</p>
+          <p className="sub-text">Get a lemming!</p>
           {!walletAddress && renderNotConnectedContainer()}
         </div>
         {walletAddress && <CandyMachine walletAddress={window.solana} />}
